@@ -18,9 +18,9 @@ async def send_whatsapp_message():
         "to": "529512198832",  # Número del destinatario
         "type": "template",
         "template": {
-            "name": "hello_world",
+            "name": "soa_test",
             "language": {
-                "code": "en_US"
+                "code": "es_MX"
             }
         }
     }
